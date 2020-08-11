@@ -21,7 +21,7 @@
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
 </a>
 <a href="https://www.last.fm/user/phxx19">
-  <img align="left" alt="Lastfm" width="22px" src="http://cdn.onlinewebfonts.com/svg/download_4311.svg" />
+  <img align="left" alt="Lastfm" width="22px" src="https://cdn.onlinewebfonts.com/svg/img_4311.svg" />
 </a>
 
 

@@ -8,7 +8,9 @@
 - 👯 I’m looking to collaborate in big projects
 - 🥅 2020 Goals: Contribute more on Github
 - 😄 Pronouns: he/him (♂️)
-- ⚡ Fun fact: I'm really into music!
+- Fun fact: I'm really into music! <a href="https://www.last.fm/user/phxx19">
+  <img align="left" alt="Lastfm" width="20px" src="https://camo.githubusercontent.com/a0fef5fbb3e6ed7620d673b7b51b4e458b1cdf70/68747470733a2f2f63646e2e6f6e6c696e65776562666f6e74732e636f6d2f7376672f696d675f343331312e737667" />
+</a>
 
 ### Contact me:
 <a href="#">
@@ -44,7 +46,3 @@
 ### More stats:
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Phoenixx19&show_icons=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenixx19)
-
-<a href="https://www.last.fm/user/phxx19">
-  <img align="left" alt="Lastfm" width="22px" src="https://camo.githubusercontent.com/a0fef5fbb3e6ed7620d673b7b51b4e458b1cdf70/68747470733a2f2f63646e2e6f6e6c696e65776562666f6e74732e636f6d2f7376672f696d675f343331312e737667" />
-</a>

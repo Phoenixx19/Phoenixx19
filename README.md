@@ -8,11 +8,9 @@
 - 👯 I’m looking to collaborate in big projects
 - 🥅 2020 Goals: Contribute more on Github
 - 😄 Pronouns: he/him (♂️)
-- Fun fact: I'm really into music! <a href="https://www.last.fm/user/phxx19">
-  <img align="left" alt="Lastfm" width="16px"  style="padding-top: 2px!important; padding-bottom: 2px!important; padding-right: 2px!important;" src="https://camo.githubusercontent.com/a0fef5fbb3e6ed7620d673b7b51b4e458b1cdf70/68747470733a2f2f63646e2e6f6e6c696e65776562666f6e74732e636f6d2f7376672f696d675f343331312e737667" />
-</a>
+- 🎵 Fun fact: I'm really like listening to music!
 
-### Contact me:
+### Follow me on:
 <a href="#">
   <img align="left" alt="Website (Work in Progress)" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
@@ -21,6 +19,9 @@
 </a>
 <a href="mailto:andreaseppi@outlook.it">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
+</a>
+<a href="https://www.last.fm/user/phxx19">
+  <img align="left" alt="Lastfm" width="22px"   src="https://camo.githubusercontent.com/a0fef5fbb3e6ed7620d673b7b51b4e458b1cdf70/68747470733a2f2f63646e2e6f6e6c696e65776562666f6e74732e636f6d2f7376672f696d675f343331312e737667" />
 </a>
 
 <br />

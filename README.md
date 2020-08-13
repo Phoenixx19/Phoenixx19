@@ -10,6 +10,9 @@
 - 😄 Pronouns: he/him (♂️)
 - 🎵 Fun fact: I'm really like listening to music!
 
+### Currently working on:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenixx19&repo=JumpKingRPC)](https://github.com/Phoenixx19/JumpKingRPC)
+
 ### Follow me on:
 <a href="#">
   <img align="left" alt="Website (Work in Progress)" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />

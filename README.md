@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate in big projects
 - 🥅 2020 Goals: Contribute more on Github
 - 😄 Pronouns: he/him (♂️)
-- 🎵 Fun fact: I'm really like listening to music!
+- 🎵 Fun fact: I'm really into listening to music!
 
 ### Currently working on:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenixx19&repo=JumpKingRPC)](https://github.com/Phoenixx19/JumpKingRPC)

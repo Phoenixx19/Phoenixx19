@@ -11,7 +11,7 @@
 - 🎵 Fun fact: I'm really into listening to music!
 
 ### Currently working on:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenixx19&repo=JumpKingPlus)](https://github.com/Phoenixx19/JumpKingPlus)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenixx19&repo=JumpKingPlus&show_owner=true)](https://github.com/Phoenixx19/JumpKingPlus)
 
 ### Follow me on:
 <a href="#">

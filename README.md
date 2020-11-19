@@ -50,4 +50,4 @@
 
 ### More stats:
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Phoenixx19&show_icons=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenixx19)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenixx19&layout=compact)

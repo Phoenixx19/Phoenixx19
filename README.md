@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning C# and .NET for creating applications
 - 👯 I’m looking to collaborate in big projects
 - 🥅 2020 Goals: Contribute more on Github
-- 😄 Pronouns: he/him (♂️)
 - 🎵 Fun fact: I'm really into listening to music!
 
 ### Currently working on:

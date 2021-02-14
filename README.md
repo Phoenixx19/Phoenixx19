@@ -6,7 +6,7 @@
 <!-- - 🔭 I’m currently working on [] -->
 - 🌱 I’m currently learning C# and .NET for creating applications
 - 👯 I’m looking to collaborate in big projects
-- 🥅 2020 Goals: Contribute more on Github
+- 🥅 2021 Goals: Contribute even more on Github
 - 🎵 Fun fact: I'm really into listening to music!
 
 ### Currently working on:

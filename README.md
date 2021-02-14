@@ -13,9 +13,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phoenixx19&repo=JumpKingPlus&show_owner=true)](https://github.com/Phoenixx19/JumpKingPlus)
 
 ### Follow me on:
-<a disabled>
+<span>
   <img align="left" alt="Website (Work in Progress)" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
+</span>
 <a href="https://www.twitter.com/phxx19">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -29,7 +29,7 @@
 <br />
 
 ### Languages and Tools:
-<a disabled>
+<span>
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/css3.svg" />
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bootstrap.svg" />
@@ -44,7 +44,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/adobephotoshop.svg" />
 <img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/windows.svg" />
 <img align="left" alt="Mac OS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/apple.svg" />
-</a>
+</span>
 <br />
 
 ### More stats:

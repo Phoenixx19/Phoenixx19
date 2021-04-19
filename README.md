@@ -4,9 +4,9 @@
 
 ## 🎓 I'm an italian student with the passion of coding and design!
 <!-- - 🔭 I’m currently working on [] -->
-- 🌱 I’m currently learning C# and .NET for creating applications
+- 🌱 I’m currently learning C# and ReactJS
 - 👯 I’m looking to collaborate in big projects
-- 🥅 2021 Goals: Contribute even more on Github
+- 🥅 2021 Goals: Get to work on new projects!
 - 🎵 Fun fact: I'm really into listening to music!
 
 ### Currently working on:

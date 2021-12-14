@@ -45,7 +45,7 @@ I'm a 20-year-old italian student with the passion of design (and also coding).
 <img align="left" alt="Mac OS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/apple.svg" />
 </span>
 <br />
-
+<!--
 ##### More stats:
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Phoenixx19&show_icons=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenixx19&layout=compact)
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=Phoenixx19&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenixx19&layout=compact) -->

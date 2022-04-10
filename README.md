@@ -7,10 +7,11 @@ I'm a 20-year-old italian student with the passion of design (and also coding).
 <br />
 
 ### You probably know me from:
-[![JumpKingPlus](https://github-readme-stats.vercel.app/api/pin/?username=Phoenixx19&repo=JumpKingPlus&show_owner=true)](https://github.com/Phoenixx19/JumpKingPlus)
+[![JumpKingPlus](https://github-readme-stats.vercel.app/api/pin/?username=JumpKingPlus&repo=JumpKingPlus&show_owner=true)](https://github.com/JumpKingPlus/JumpKingPlus)
 
+<!--
 ### Currently working on:
-[![WorkingOn](https://github-readme-stats.vercel.app/api/pin/?username=JumpKingMods&repo=JumpKingMods.github.io&show_owner=false)](https://github.com/JumpKingMods/JumpKingMods.github.io)
+[![WorkingOn](https://github-readme-stats.vercel.app/api/pin/?username=JumpKingMods&repo=JumpKingMods.github.io&show_owner=false)](https://github.com/JumpKingMods/JumpKingMods.github.io) -->
 
 #### Follow me on:
 <span>

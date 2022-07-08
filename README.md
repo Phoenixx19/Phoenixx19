@@ -1,5 +1,5 @@
 ## Hi there, I'm Phoenixx19 but you can also call me Andrea! 👋
-I'm a 20-year-old italian student with the passion of design (and also coding).
+I'm a 21-year-old italian student with the passion of design (and also coding).
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Phoenixx19.Phoenixx19)
 [![Github](https://img.shields.io/github/followers/Phoenixx19?label=Follow&style=social)](https://github.com/Phoenixx19)

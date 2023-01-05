@@ -20,7 +20,7 @@ I'm a 21-year-old italian student with the passion of design (and also coding).
 <a href="https://www.twitter.com/phxx19">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="mailto:andreaseppi@outlook.it">
+<a href="mailto:hello@phoenixx.design">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
 </a>
 <a href="https://www.last.fm/user/phxx19">

@@ -1,52 +1,43 @@
-## Hi there, I'm Phoenixx19 but you can also call me Andrea! 👋
-I'm a 21-year-old italian student with the passion of design (and also coding).
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNqNHZ2YnIxeHpkOGhlc25jbzBqd3Z4ZTY3M3FzbDVpNTF5cm8zdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuXzcHMkuwvf2/giphy.gif" alt="howdy visitor :)" height="200px" />
 
-![](https://visitor-badge.laobi.icu/badge?page_id=Phoenixx19.Phoenixx19)
-[![Github](https://img.shields.io/github/followers/Phoenixx19?label=Follow&style=social)](https://github.com/Phoenixx19)
+# Howdy visitor! <img src="https://cdn.7tv.app/emote/60f9199515758a7f9a4ea81a/4x.webp" alt="peepoHey" width="32px" />
 
-<br />
+My name's Andrea, but I'm more known as Phoenixx19.<br />
+I'm a self-taught **programmer** with a passionate background of **UX/UI design** studies.
 
-### You probably know me from:
-[![JumpKingPlus](https://github-readme-stats.vercel.app/api/pin/?username=JumpKingPlus&repo=JumpKingPlus&show_owner=true)](https://github.com/JumpKingPlus/JumpKingPlus)
+## About me
 
-<!--
-### Currently working on:
-[![WorkingOn](https://github-readme-stats.vercel.app/api/pin/?username=JumpKingMods&repo=JumpKingMods.github.io&show_owner=false)](https://github.com/JumpKingMods/JumpKingMods.github.io) -->
+Currently, I am working as a **Game and Tools Developer** for [@TeamNexile](https://nexile.se/).<br />
+In my free time, I'm also the **lead developer** and **site maintainer** for [@JumpKingPlus](https://github.com/jumpkingplus).
 
-#### Follow me on:
+### Things I use
+
+
+#### Front-end
+
 <span>
-  <!--<img align="left" alt="Website (Work in Progress)" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />-->
+  <img alt="HTML5" title="HTML5" width="28px" src="https://cdn.simpleicons.org/html5" />
+  <img alt="CSS3" title="CSS3" width="28px" src="https://cdn.simpleicons.org/css3" />
+  <img alt="Jekyll" width="26px" src="https://cdn.simpleicons.org/jekyll" />  
+  <img alt="Markdown" width="26px" src="https://cdn.simpleicons.org/markdown" />
+  <img alt="JavaScript" title="JavaScript" width="28px" src="https://cdn.simpleicons.org/javascript" />
+  <img alt="WPF" title="WPF" width="28px" src="https://cdn.simpleicons.org/csharp" /> (WPF)
 </span>
-<a href="https://www.twitter.com/phxx19">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:hello@phoenixx.design">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />
-</a>
-<a href="https://www.last.fm/user/phxx19">
-  <img align="left" alt="Lastfm" width="22px"   src="https://camo.githubusercontent.com/a0fef5fbb3e6ed7620d673b7b51b4e458b1cdf70/68747470733a2f2f63646e2e6f6e6c696e65776562666f6e74732e636f6d2f7376672f696d675f343331312e737667" />
-</a>
 
-<br />
-
-#### Languages and Tools:
+#### Back-end
 <span>
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/html5.svg" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/css3.svg" />
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/bootstrap.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/javascript.svg" />
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/csharp.svg" />
-<img align="left" alt="Jekyll" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/jekyll.svg" />  
-<img align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/markdown.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudiocode.svg" />
-<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/visualstudio.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />
-<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/adobephotoshop.svg" />
-<img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/windows.svg" />
-<img align="left" alt="Mac OS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/apple.svg" />
+  <img alt="C#" title="C#" width="28px" src="https://cdn.simpleicons.org/csharp" />
 </span>
-<br />
-<!--
-##### More stats:
- ![Github stats](https://github-readme-stats.vercel.app/api?username=Phoenixx19&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phoenixx19&layout=compact) -->
+
+#### Software and OSes
+<span>
+  <img alt="Visual Studio Code" title="Visual Studio Code" width="28px" src="https://cdn.simpleicons.org/visualstudiocode" />
+  <img alt="Visual Studio" title="Visual Studio" width="28px" src="https://cdn.simpleicons.org/visualstudio" />
+  <img alt="Photoshop" title="Adobe Photoshop" width="28px" src="https://cdn.simpleicons.org/adobephotoshop" />
+  <img alt="Windows" title="Windows" width="28px" src="https://cdn.simpleicons.org/windows" />
+  <img alt="Mac OS" title="MacOS" width="28px"  src="https://cdn.simpleicons.org/macos" />
+</span>
+
+### Contact me
+
+You can contact me only by [emailing me](mailto:hello@phoenixx.design) (as of now).

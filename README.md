@@ -12,31 +12,51 @@ In my free time, I'm also the **lead developer** and **site maintainer** for [@J
 
 ### Things I use
 
-
-#### Front-end
-
-<span>
-  <img alt="HTML5" title="HTML5" width="28px" src="https://cdn.simpleicons.org/html5" />
-  <img alt="CSS3" title="CSS3" width="28px" src="https://cdn.simpleicons.org/css3" />
-  <img alt="Jekyll" width="26px" src="https://cdn.simpleicons.org/jekyll" />  
-  <img alt="Markdown" width="26px" src="https://cdn.simpleicons.org/markdown" />
-  <img alt="JavaScript" title="JavaScript" width="28px" src="https://cdn.simpleicons.org/javascript" />
-  <img alt="WPF" title="WPF" width="28px" src="https://cdn.simpleicons.org/csharp" /> (WPF)
-</span>
-
-#### Back-end
-<span>
-  <img alt="C#" title="C#" width="28px" src="https://cdn.simpleicons.org/csharp" />
-</span>
-
-#### Software and OSes
-<span>
-  <img alt="Visual Studio Code" title="Visual Studio Code" width="28px" src="https://cdn.simpleicons.org/visualstudiocode" />
-  <img alt="Visual Studio" title="Visual Studio" width="28px" src="https://cdn.simpleicons.org/visualstudio" />
-  <img alt="Photoshop" title="Adobe Photoshop" width="28px" src="https://cdn.simpleicons.org/adobephotoshop" />
-  <img alt="Windows" title="Windows" width="28px" src="https://cdn.simpleicons.org/windows" />
-  <img alt="Mac OS" title="MacOS" width="28px"  src="https://cdn.simpleicons.org/macos" />
-</span>
+<table>
+  <tr>
+    <th>Look'n'feel</th>
+    <td>
+      <span>
+        <img alt="HTML5" title="HTML5" width="28px" src="https://cdn.simpleicons.org/html5" />
+        <img alt="CSS3" title="CSS3" width="28px" src="https://cdn.simpleicons.org/css3" />
+        <img alt="Jekyll" width="26px" src="https://cdn.simpleicons.org/jekyll" />
+        <img alt="Markdown" width="26px" src="https://cdn.simpleicons.org/markdown" />
+        <img alt="XAML" title="XAML" width="28px" src="https://cdn.simpleicons.org/xaml" />
+      </span>
+    </td>
+  </tr>
+  <tr>
+    <th>Code</th>
+    <td>
+      <span>
+        <img alt="JavaScript" title="JavaScript" width="28px" src="https://cdn.simpleicons.org/javascript" />
+        <img alt="C#" title="C#" width="28px" src="https://cdn.simpleicons.org/csharp" />
+        WPF
+      </span>
+    </td>
+  </tr>
+  <tr>
+    <th>Softwares</th>
+    <td>
+      <span>
+        <img alt="Visual Studio Code" title="Visual Studio Code" width="28px" src="https://cdn.simpleicons.org/visualstudiocode" />
+        <img alt="Visual Studio" title="Visual Studio" width="28px" src="https://cdn.simpleicons.org/visualstudio" />
+        <img alt="Github" title="Github (and the desktop GUI)" width="28px" src="https://cdn.simpleicons.org/github" />
+        <img alt="Figma" title="Figma" width="28px" src="https://cdn.simpleicons.org/figma" />
+        <img alt="Photoshop" title="Adobe Photoshop" width="28px" src="https://cdn.simpleicons.org/adobephotoshop" />
+      </span>
+    </td>
+  </tr>
+  <tr>
+    <th>Operating Systems</th>
+    <td>
+      <span>
+        <img alt="Windows" title="Windows" width="28px" src="https://cdn.simpleicons.org/windows" />
+        <img alt="Mac OS" title="MacOS" width="28px" src="https://cdn.simpleicons.org/apple" />
+      </span>
+    </td>
+  </tr>
+</table>
 
 ### Contact me
 

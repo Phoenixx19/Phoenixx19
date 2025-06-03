@@ -7,7 +7,8 @@ I'm a self-taught **programmer** with a passionate background of **UX/UI design*
 
 ## About me
 
-Currently, I am working as a **Game Developer** for [@TeamNexile](https://nexile.se/).<br />
+Currently, I'm looking for a new job!
+Until May, I was working as a **Game Developer** for [@TeamNexile](https://nexile.se/).<br />
 In my free time, I make mods for Jump King;<br>you might know me for being the **lead developer** and **site maintainer** for [@JumpKingPlus](https://github.com/jumpkingplus).
 
 ### Things I use

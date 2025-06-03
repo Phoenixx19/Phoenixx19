@@ -18,11 +18,11 @@ In my free time, I make mods for Jump King;<br>you might know me for being the *
     <th>Look'n'feel</th>
     <td>
       <span>
-        <img alt="HTML5" title="HTML5" width="28px" src="https://cdn.simpleicons.org/html5" />
-        <img alt="CSS3" title="CSS3" width="28px" src="https://cdn.simpleicons.org/css3" />
-        <img alt="Jekyll" width="26px" src="https://cdn.simpleicons.org/jekyll" />
-        <img alt="Markdown" width="26px" src="https://cdn.simpleicons.org/markdown" />
-        <img alt="XAML" title="XAML" width="28px" src="https://cdn.simpleicons.org/xaml" />
+        <img alt="HTML5" title="HTML5" width="28px" src="https://github.com/Automations-Project/popular-brands-icons-colored/raw/refs/heads/main/icons/html5.min.svg" />
+        <img alt="CSS3" title="CSS3" width="28px" src="https://github.com/Automations-Project/popular-brands-icons-colored/raw/refs/heads/main/icons/css3.min.svg" />
+        <img alt="Jekyll" width="26px" src="https://github.com/Automations-Project/popular-brands-icons-colored/raw/refs/heads/main/icons/jekyll.min.svg" />
+        <img alt="Markdown" width="26px" src="https://github.com/Automations-Project/popular-brands-icons-colored/raw/refs/heads/main/icons/markdown.min.svg" />
+        <img alt="XAML" title="XAML" width="28px" src="https://github.com/Automations-Project/popular-brands-icons-colored/raw/refs/heads/main/icons/xaml.min.svg" />
       </span>
     </td>
   </tr>
@@ -30,9 +30,9 @@ In my free time, I make mods for Jump King;<br>you might know me for being the *
     <th>Code</th>
     <td>
       <span>
-        <img alt="JavaScript" title="JavaScript" width="28px" src="https://cdn.simpleicons.org/javascript" />
-        <img alt="C#" title="C#" width="28px" src="https://cdn.simpleicons.org/csharp" />
-        WPF
+        <img alt="JavaScript" title="JavaScript" width="28px" src="https://github.com/Automations-Project/popular-brands-icons-colored/raw/refs/heads/main/icons/javascript.min.svg" />
+        <img alt="C#" title="C#" width="28px" src="https://github.com/Automations-Project/popular-brands-icons-colored/raw/refs/heads/main/icons/csharp.min.svg" />
+        <img alt="WPF" title="WPF" width="28px" src="https://github.com/user-attachments/assets/089b4265-aeab-4d2b-bdbe-55c5dcaf05f2" />
       </span>
     </td>
   </tr>
@@ -40,11 +40,11 @@ In my free time, I make mods for Jump King;<br>you might know me for being the *
     <th>Softwares</th>
     <td>
       <span>
-        <img alt="Visual Studio Code" title="Visual Studio Code" width="28px" src="https://cdn.simpleicons.org/visualstudiocode" />
-        <img alt="Visual Studio" title="Visual Studio" width="28px" src="https://cdn.simpleicons.org/visualstudio" />
-        <img alt="Github" title="Github (and the desktop GUI)" width="28px" src="https://cdn.simpleicons.org/github" />
-        <img alt="Figma" title="Figma" width="28px" src="https://cdn.simpleicons.org/figma" />
-        <img alt="Photoshop" title="Adobe Photoshop" width="28px" src="https://cdn.simpleicons.org/adobephotoshop" />
+        <img alt="Visual Studio Code" title="Visual Studio Code" width="28px" src="https://github.com/Automations-Project/popular-brands-icons-colored/raw/refs/heads/main/icons/visualstudiocode.min.svg" />
+        <img alt="Visual Studio" title="Visual Studio" width="28px" src="https://github.com/Automations-Project/popular-brands-icons-colored/raw/refs/heads/main/icons/visualstudio.min.svg" />
+        <img alt="Github" title="Github (and the desktop GUI)" width="28px" src="https://github.com/Automations-Project/popular-brands-icons-colored/raw/refs/heads/main/icons/github.min.svg" />
+        <img alt="Figma" title="Figma" width="28px" src="https://github.com/Automations-Project/popular-brands-icons-colored/raw/refs/heads/main/icons/figma.min.svg" />
+        <img alt="Photoshop" title="Adobe Photoshop" width="28px" src="https://github.com/Automations-Project/popular-brands-icons-colored/raw/refs/heads/main/icons/adobephotoshop.min.svg" />
       </span>
     </td>
   </tr>
@@ -52,8 +52,8 @@ In my free time, I make mods for Jump King;<br>you might know me for being the *
     <th>Operating Systems</th>
     <td>
       <span>
-        <img alt="Windows" title="Windows" width="28px" src="https://cdn.simpleicons.org/windows" />
-        <img alt="Mac OS" title="MacOS" width="28px" src="https://cdn.simpleicons.org/apple" />
+        <img alt="Windows" title="Windows" width="28px" src="https://github.com/Automations-Project/popular-brands-icons-colored/raw/refs/heads/main/icons/windows.min.svg" />
+        <img alt="Mac OS" title="MacOS" width="28px" src="https://github.com/Automations-Project/popular-brands-icons-colored/raw/refs/heads/main/icons/macos.min.svg" />
       </span>
     </td>
   </tr>
